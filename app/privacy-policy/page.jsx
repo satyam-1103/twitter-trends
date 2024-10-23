@@ -64,15 +64,15 @@ const page = () => {
             <p className="text-gray-700">
               <strong>Affiliate</strong> means an entity that controls, is
               controlled by or is under common control with a party, where
-              "control" means ownership of 50% or more of the shares, equity
+              &quot;Control &quot; means ownership of 50% or more of the shares, equity
               interest or other securities entitled to vote for election of
               directors or other managing authority.
             </p>
           </li>
           <li>
             <p className="text-gray-700">
-              <strong>Company</strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to Twitter Trends.
+              <strong>Company</strong> (referred to as either &quot;the Company&quot;,
+              &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Twitter Trends.
             </p>
           </li>
           <li>
@@ -128,7 +128,7 @@ const page = () => {
           Usage Data is collected automatically when using the Service.
         </p>
         <p className="text-gray-700 mb-4">
-          Usage Data may include information such as Your Device's Internet
+          Usage Data may include information such as Your Device&apos;s Internet
           Protocol address (e.g. IP address), browser type, browser version, the
           pages of our Service that You visit, the time and date of Your visit,
           the time spent on those pages, unique device identifiers, and other
