@@ -12,15 +12,15 @@ import Logo from "@/public/world.svg";
 import Image from "next/image";
 import { LuAlignCenter } from "react-icons/lu";
 import Link from "next/link";
-import {Rethink_Sans} from "next/font/google"
 
-const rethink_sans = Rethink_Sans({subsets: ['latin'], weight: ["700"], style: ["italic"]})
+
+
 const Navbar = () => {
   const [search, setSearch] = React.useState("");
   return (
     <header className="flex justify-between items-center  w-full h-[90px] bg-gray-100 p-16 gap-16">
       {/* Logo */}
-<nav className={rethink_sans.className}>
+<nav>
   Twitter trends
 </nav>
       {/* Middle Search Bar */}
