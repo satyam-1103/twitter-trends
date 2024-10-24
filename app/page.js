@@ -35,9 +35,7 @@ const CountryContent = () => {
       <div className="lg:hidden items-center flex justify-center flex-col ">
         <MobileSidebar onSelectTrend={handleSelectTrend} />
         <div className="flex flex-col p-3 gap-4 ">
-          <div>
-            <Image src={World} alt="world" className="w-full h-96 mt-4" />
-          </div>
+          
           <div>
             <h1 className="sm:text-4xl md:text-6xl md:font-bold text-center md:leading-relaxed">
               WorldWide Twitter Trends | Twitter Trending Topics & Hashtags
